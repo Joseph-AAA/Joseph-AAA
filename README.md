@@ -145,7 +145,8 @@ Live Demo: https://todo-app-livid-six-13.vercel.app/
   <img height="165"
     src="https://github-stats-extended.vercel.app/api?username=Joseph-AAA&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Statistics" />
-
+</p>
+<p>
   <img height="165"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joseph-AAA&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages" />
