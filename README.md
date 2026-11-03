@@ -141,41 +141,6 @@ Live Demo: https://todo-app-livid-six-13.vercel.app/
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api?username=Joseph-AAA&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics" />
-</p>
-<p>
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joseph-AAA&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Joseph-AAA&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Next.js
-- Advanced TypeScript
-- Modern full-stack application architecture
-- Building scalable web applications
-
----
-
----
-
-## 🤝 Connect With Me
-
-## 📊 GitHub Statistics
-
 <!-- GitHub Stats -->
 <p align="center">
   <img
@@ -201,6 +166,21 @@ Live Demo: https://todo-app-livid-six-13.vercel.app/
     alt="GitHub Streak"
   />
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+- Next.js
+- Advanced TypeScript
+- Modern full-stack application architecture
+- Building scalable web applications
+
+---
+
+---
+
+## 🤝 Connect With Me
 
 ---
 
