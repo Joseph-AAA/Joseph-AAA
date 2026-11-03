@@ -65,6 +65,8 @@ A learning management platform with separate Admin and Student experiences.
 Live Demo: https://www.mycodeacademy.my/
 🔗 [View Repository](https://github.com/Joseph-AAA/My_Code_Academy)
 
+---
+
 ### 2. Shopping Site
 **E-commerce Web Application**
 
@@ -77,6 +79,8 @@ Live Demo: https://www.mycodeacademy.my/
 
 Live Demo: https://shopping-site-six-kappa.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/Shopping_Site)
+
+---
 
 ### 3. Product List With Cart
 **Interactive E-commerce Shopping Cart**
@@ -96,6 +100,7 @@ A React application that allows users to browse products and manage their shoppi
 Live Demo: https://product-list-with-cart-43ef.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/Product-List-With-Cart)
 
+---
 
 ### 4. QuickLinks Chrome Extension
 **Browser Productivity Extension**
@@ -107,6 +112,7 @@ A React-based Chrome extension designed to provide quick access to useful links.
 Live Demo: https://quick-links-chrome-extension.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/QuickLinks_ChromeExtension)
 
+---
 
 ### 5. Multi-Step Form
 **Interactive Frontend Application**
@@ -118,6 +124,7 @@ A multi-step form with interactive inputs, navigation, and form state management
 Live Demo: https://multi-step-form-sooty-one.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/multi_step_form)
 
+---
 
 ### 6. Todo App
 **Task Management Application**
