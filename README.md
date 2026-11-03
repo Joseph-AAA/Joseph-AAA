@@ -56,6 +56,7 @@ A learning management platform with separate Admin and Student experiences.
 
 **Technologies:** React, Tailwind Css, Node.js, Express.js, Prisma, PostgreSQL, Stripe, Resend, Cloudinary.
 
+Live Demo: https://www.mycodeacademy.my/
 🔗 [View Repository](https://github.com/Joseph-AAA/My_Code_Academy)
 
 ### 2. Shopping Site
