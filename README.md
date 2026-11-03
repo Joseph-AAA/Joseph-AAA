@@ -68,7 +68,7 @@ Live Demo: https://www.mycodeacademy.my/
 - React Router navigation.
 
 **Technologies:** React, JavaScript, CSS.
-Live Demo: https://shopping-site-six-kappa.vercel.app/signin
+Live Demo: https://shopping-site-six-kappa.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/Shopping_Site)
 
 ### 3. Product List With Cart
