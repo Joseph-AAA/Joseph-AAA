@@ -1,4 +1,10 @@
-# Hi, I'm Joseph 👋
+<p align="center">
+  <img
+    src="./Neon%20Full-Stack%20Developer%20Workspace.png"
+    alt="Joseph - Junior Full-Stack Developer"
+    width="100%"
+  />
+</p>
 
 ### Junior Full-Stack Developer | React | TypeScript | Node.js
 
