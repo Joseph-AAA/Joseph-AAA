@@ -147,8 +147,9 @@ Live Demo: https://todo-app-livid-six-13.vercel.app/
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Joseph-AAA&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak" />
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Joseph-AAA&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
