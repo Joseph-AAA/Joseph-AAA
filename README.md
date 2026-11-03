@@ -110,7 +110,7 @@ A multi-step form with interactive inputs, navigation, and form state management
 **Technologies:** React, TypeScript, Tailwind CSS.
 
 Live Demo: https://multi-step-form-sooty-one.vercel.app/
-🔗 [View Repository](https://github.com/Joseph-AAA/Multi-Step-Form)
+🔗 [View Repository](https://github.com/Joseph-AAA/multi_step_form)
 
 
 ### 5. Todo App
