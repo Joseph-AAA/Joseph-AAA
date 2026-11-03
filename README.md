@@ -68,6 +68,7 @@ Live Demo: https://www.mycodeacademy.my/
 - React Router navigation.
 
 **Technologies:** React, JavaScript, CSS.
+
 Live Demo: https://shopping-site-six-kappa.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/Shopping_Site)
 
@@ -85,6 +86,7 @@ A React application that allows users to browse products and manage their shoppi
 - Responsive user interface.
 
 **Technologies:** React, TypeScript, Tailwind CSS.
+
 Live Demo: https://product-list-with-cart-43ef.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/Product-List-With-Cart)
 
@@ -104,6 +106,7 @@ Live Demo: https://quick-links-chrome-extension.vercel.app/
 **Interactive Frontend Application**
 
 A multi-step form with interactive inputs, navigation, and form state management.
+
 **Technologies:** React, TypeScript, Tailwind CSS.
 
 Live Demo: https://multi-step-form-sooty-one.vercel.app/
