@@ -176,23 +176,28 @@ Live Demo: https://todo-app-livid-six-13.vercel.app/
 
 ## 📊 GitHub Statistics
 
+<!-- GitHub Stats -->
 <p align="center">
   <img
-    src="YOUR_GITHUB_STATS_IMAGE_URL"
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=Joseph-AAA&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Statistics"
   />
 </p>
 
+<!-- Most Used Languages -->
 <p align="center">
   <img
-    src="YOUR_EXISTING_TOP_LANGUAGES_IMAGE_URL"
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joseph-AAA&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
   <img
-    src="YOUR_STREAK_IMAGE_URL"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Joseph-AAA&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
