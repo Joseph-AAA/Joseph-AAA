@@ -190,9 +190,3 @@ Live Demo: https://todo-app-livid-six-13.vercel.app/
 <p align="center">
   <i>Building, learning, and improving one project at a time. 🚀</i>
 </p>
-
----
-
-<p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
-</p>
