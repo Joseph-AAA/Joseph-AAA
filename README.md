@@ -178,9 +178,17 @@ Live Demo: https://todo-app-livid-six-13.vercel.app/
 
 ---
 
+## 🤝 Connect With Me
+
+- 💻 [GitHub](https://github.com/Joseph-AAA)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joseph-aaa-63885a426/)
+- 🌐 [My Code Academy](https://www.mycodeacademy.my/)
+
 ---
 
-## 🤝 Connect With Me
+<p align="center">
+  <i>Building, learning, and improving one project at a time. 🚀</i>
+</p>
 
 ---
 
