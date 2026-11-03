@@ -68,22 +68,65 @@ Live Demo: https://www.mycodeacademy.my/
 - React Router navigation.
 
 **Technologies:** React, JavaScript, CSS.
-
+Live Demo: https://shopping-site-six-kappa.vercel.app/signin
 🔗 [View Repository](https://github.com/Joseph-AAA/Shopping_Site)
+
+### 3. Product List With Cart
+**Interactive E-commerce Shopping Cart**
+
+A React application that allows users to browse products and manage their shopping cart.
+
+**Key Features:**
+- Display products dynamically from data.
+- Add products to the shopping cart.
+- Increase and decrease product quantities.
+- Remove products from the cart.
+- Calculate cart totals dynamically.
+- Responsive user interface.
+
+**Technologies:** React, TypeScript, Tailwind CSS.
+Live Demo: https://product-list-with-cart-43ef.vercel.app/
+🔗 [View Repository](https://github.com/Joseph-AAA/Product-List-With-Cart)
+
 
 ### 3. QuickLinks Chrome Extension
 **Browser Productivity Extension**
 
 A React-based Chrome extension designed to provide quick access to useful links.
 
+**Technologies:** React, JavaScript, CSS.
+
+Live Demo: https://quick-links-chrome-extension.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/QuickLinks_ChromeExtension)
+
 
 ### 4. Multi-Step Form
 **Interactive Frontend Application**
 
 A multi-step form with interactive inputs, navigation, and form state management.
+**Technologies:** React, TypeScript, Tailwind CSS.
 
+Live Demo: https://multi-step-form-sooty-one.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/Multi-Step-Form)
+
+
+### 4. Todo App
+**Task Management Application**
+
+A task management application that allows users to organize, track, and manage their daily tasks.
+
+**Key Features:**
+- Add new tasks.
+- Edit and delete existing tasks.
+- Mark tasks as completed or active.
+- Filter tasks by status.
+- Manage task lists with interactive UI.
+- Responsive design.
+
+**Technologies:** React, JavaScript, CSS.
+
+Live Demo: https://todo-app-livid-six-13.vercel.app/
+🔗 [View Repository](https://github.com/Joseph-AAA/Todo-App)
 
 ---
 
