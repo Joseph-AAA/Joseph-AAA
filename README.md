@@ -169,12 +169,26 @@ Live Demo: https://todo-app-livid-six-13.vercel.app/
 
 ---
 
+---
+
 ## 🤝 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/Joseph-AAA">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/joseph-aaa-63885a426/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.mycodeacademy.my/">
+    <img src="https://img.shields.io/badge/Website-Visit_My_Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time. 🚀</i>
 </p>
 
 ---
