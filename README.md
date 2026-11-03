@@ -54,7 +54,7 @@ A learning management platform with separate Admin and Student experiences.
 - Email verification and password reset.
 - Profile management and image uploads.
 
-**Technologies:** React, TypeScript, Node.js, Express.js, Prisma, PostgreSQL, Stripe, Resend, Cloudinary.
+**Technologies:** React, Tailwind Css, Node.js, Express.js, Prisma, PostgreSQL, Stripe, Resend, Cloudinary.
 
 🔗 [View Repository](https://github.com/Joseph-AAA/My_Code_Academy)
 
