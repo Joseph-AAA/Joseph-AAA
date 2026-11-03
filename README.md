@@ -97,7 +97,7 @@ Live Demo: https://product-list-with-cart-43ef.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/Product-List-With-Cart)
 
 
-### 3. QuickLinks Chrome Extension
+### 4. QuickLinks Chrome Extension
 **Browser Productivity Extension**
 
 A React-based Chrome extension designed to provide quick access to useful links.
@@ -108,7 +108,7 @@ Live Demo: https://quick-links-chrome-extension.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/QuickLinks_ChromeExtension)
 
 
-### 4. Multi-Step Form
+### 5. Multi-Step Form
 **Interactive Frontend Application**
 
 A multi-step form with interactive inputs, navigation, and form state management.
@@ -119,7 +119,7 @@ Live Demo: https://multi-step-form-sooty-one.vercel.app/
 🔗 [View Repository](https://github.com/Joseph-AAA/multi_step_form)
 
 
-### 5. Todo App
+### 6. Todo App
 **Task Management Application**
 
 A task management application that allows users to organize, track, and manage their daily tasks.
