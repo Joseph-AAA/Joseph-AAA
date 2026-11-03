@@ -42,7 +42,7 @@ I enjoy working on both frontend and backend development, turning ideas into fun
 
 ## 🚀 Featured Projects
 
-### 1. My Code Academy
+### 1. MyCode Academy
 **Full-Stack Online Learning Platform**
 
 A learning management platform with separate Admin and Student experiences.
