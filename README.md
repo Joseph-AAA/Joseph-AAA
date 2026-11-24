@@ -65,7 +65,7 @@ A responsive portfolio website showcasing my skills, projects, and experience as
 - Skills and technology sections.
 - Contact information and social links.
 
-**Technologies:** React, Tailwind CSS, Node.js, Express.js, Prisma, PostgreSQL, Stripe, Resend, Cloudinary.
+**Technologies:** Next.js, TypeScript, Tailwind CSS, Resend.
 
 **Live Demo:** [View Portfolio](https://myportfolio-dun-kappa-70.vercel.app/)
 🔗 [View Repository](https://github.com/Joseph-AAA/myportfolio)
