@@ -55,6 +55,22 @@ I enjoy developing both frontend and backend solutions, turning ideas into pract
 
 ## 🚀 Featured Projects
 
+### My Portfolio
+**Personal Developer Portfolio**
+
+A responsive portfolio website showcasing my skills, projects, and experience as a Frontend / Full-Stack Developer.
+
+- Responsive design for desktop and mobile.
+- Projects showcase with descriptions and links.
+- Skills and technology sections.
+- Contact information and social links.
+
+**Technologies:** Next.js, TypeScript, Tailwind CSS.
+
+**Live Demo:** [View Portfolio](https://myportfolio-dun-kappa-70.vercel.app/)
+
+🔗 [View Repository](https://github.com/Joseph-AAA/myportfolio)
+
 ### 1. MyCode Academy
 **Full-Stack Online Learning Platform**
 
