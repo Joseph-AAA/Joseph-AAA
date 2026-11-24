@@ -202,8 +202,7 @@ Live Demo: https://todo-app-livid-six-13.vercel.app/
 
 ## 🌱 Currently Learning
 
-- Next.js
-- Advanced TypeScript
+- React Native
 - Modern full-stack application architecture
 - Building scalable web applications
 
