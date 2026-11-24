@@ -6,7 +6,7 @@
   />
 </p>
 
-### Junior Full-Stack Developer | React | TypeScript | Node.js
+### Junior Frontend | Full-Stack Developer | React | TypeScript | Node.js
 
 I'm a developer passionate about building practical, responsive, and user-friendly web applications.
 
