@@ -33,9 +33,14 @@ I enjoy developing both frontend and backend solutions, turning ideas into pract
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
 </p>
 
+### DevOps & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel" />
+</p>
+
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
 
 ### Services & Integrations
