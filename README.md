@@ -11,13 +11,13 @@
 I'm a developer passionate about building modern, responsive, and user-friendly web applications.
 I enjoy developing both frontend and backend solutions, turning ideas into practical applications while continuously improving my technical skills and exploring new technologies.
 
-🔭 Currently working on My Code Academy – a full-stack online learning platform.
+🚀 Built MyCode Academy – a full-stack online learning platform with authentication, course management, student dashboards, and Stripe payment integration.
 
 🌱 Currently learning React Native to expand my skills into mobile app development.
 
-💻 Experienced in building web applications using React.js, Next.js, TypeScript, Node.js, Express.js, and PostgreSQL.
+💻 Experienced in building web applications using React.js, Next.js, TypeScript, Node.js, Express.js, Prisma, and PostgreSQL.
 
-🚀 Passionate about building real-world applications and growing as a Full-Stack Developer.
+🎯 Passionate about building real-world applications and growing as a Full-Stack Developer.
 
 ---
 
@@ -25,7 +25,7 @@ I enjoy developing both frontend and backend solutions, turning ideas into pract
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
 ### Backend & Database
