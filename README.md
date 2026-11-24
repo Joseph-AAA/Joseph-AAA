@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./Neon%20Full-Stack%20Developer%20Workspace.png"
+    src="./Neon%20Developer%20Portfolio%20Workspace.png"
     alt="Joseph - Junior Full-Stack Developer"
     width="100%"
   />
