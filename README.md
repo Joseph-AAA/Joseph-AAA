@@ -8,14 +8,16 @@
 
 ### Junior Frontend / Full-Stack Developer | Next.js | React.js | TypeScript | Node.js
 
-I'm a developer passionate about building practical, responsive, and user-friendly web applications.
+I'm a developer passionate about building modern, responsive, and user-friendly web applications.
+I enjoy developing both frontend and backend solutions, turning ideas into practical applications while continuously improving my technical skills and exploring new technologies.
 
-I enjoy working on both frontend and backend development, turning ideas into functional applications and continuously improving my development skills.
+🔭 Currently working on My Code Academy – a full-stack online learning platform.
 
-- 🔭 Currently working on **My Code Academy** – a full-stack online learning platform.
-- 🌱 Currently learning **Next.js** and improving my TypeScript skills.
-- 💻 Interested in building real-world web applications.
-- 🚀 Focused on growing as a Full-Stack Developer.
+🌱 Currently learning React Native to expand my skills into mobile app development.
+
+💻 Experienced in building web applications using React.js, Next.js, TypeScript, Node.js, Express.js, and PostgreSQL.
+
+🚀 Passionate about building real-world applications and growing as a Full-Stack Developer.
 
 ---
 
